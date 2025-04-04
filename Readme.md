@@ -1,0 +1,1 @@
+This project focuses on Setting up Java application and deploy the application using Jenkins to AWS EC2
